@@ -5,7 +5,6 @@ namespace FunctionOpdracht5
     internal class Program
     { 
         string heroName;
-        int heroStrength;
         int health;
 
         static void Main(string[] args)
